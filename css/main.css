@@ -225,7 +225,7 @@ last {
 /**row-2**/
 
 .row-2 {
-	height: 355px;
+	min-height: 355px;
 	margin: 80px 0 110px
 }
 .row-2 article {
@@ -380,7 +380,7 @@ label {
 }
 .blog {
 	padding: 30px 0 45px 100px;
-	height: 130px
+	min-height: 130px
 }
 .blog-1 {
 	background: url(../images/blog-1.png) no-repeat;
